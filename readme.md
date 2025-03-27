@@ -2,4 +2,7 @@ trying to build a trading buddy which would automatically let me know my stop lo
 
 also will develop this into something more
 
+This is for futures trading
+
 Thanks for reading 
+
